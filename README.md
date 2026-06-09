@@ -1,5 +1,14 @@
 # 🔍 InsightLens AI
 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![Gemini](https://img.shields.io/badge/Google-Gemini-orange)
+![Vision](https://img.shields.io/badge/AI-Vision-green)
+![Multimodal](https://img.shields.io/badge/Multimodal-AI-purple)
+![Pillow](https://img.shields.io/badge/Pillow-Image_Processing-yellow)
+![JSON](https://img.shields.io/badge/Storage-JSON-lightgrey)
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)
+
 ## Multimodal Visual Intelligence Assistant Powered by Gemini Vision
 
 InsightLens AI is a production-style Generative AI application that enables users to interact with images using natural language. Built with Google Gemini Vision and Streamlit, the application allows users to upload images, ask questions, generate insights, create study notes, generate quizzes, and analyze visual content through a modern, interactive interface.
