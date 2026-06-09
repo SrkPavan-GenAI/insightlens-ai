@@ -8,7 +8,6 @@
 ![Pillow](https://img.shields.io/badge/Pillow-Image_Processing-yellow)
 ![JSON](https://img.shields.io/badge/Storage-JSON-lightgrey)
 ![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![Version](https://img.shields.io/badge/Version-v1.0-blue)
 
